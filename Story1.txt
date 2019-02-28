@@ -5,3 +5,5 @@ It was at this moment that I decided my fate was to be a master hacker.
 It has been 4 years since I first hacked into Amazon, and I've been ordering everything my heart desires for free.
 
 The days passed. But one day I was caught by Amazon, who was going to put me in jail. I told them that if you don't put me in jail, I can consider working for you for free. I can help you hack into your competitor's website.
+
+So then my days as a cyberjocky began. I began with some low level type stuff at first, like datadrops and ddos attacks. But then they wanted more. They wanted to see if it was possible for me to find an intrusion in their data lake, and then see if I could download its ENTIRE contents without them being aware.
